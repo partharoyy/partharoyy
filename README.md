@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I am a self taught Web Engineer(I like to call myself🙂) with 6 months of personal projects development experience 
+I am a self taught Data Scientist turned Web Engineer(That's what I like to call myself🙂) with 6 months of personal projects development experience 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://partharoy.me)
 
