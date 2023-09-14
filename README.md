@@ -2,18 +2,16 @@
 
 
 ## 🚀 About Me
-I am a self taught Data Scientist turned Web Engineer(That's what I like to call myself🙂) with 6 months of personal projects development experience 
+I am a Fullstack Software Engineer working with MERN stack to build Web and Mobile Apps with 3+ years of experience working with Startups and Big organisations.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://partharoy.me)
-
-Also had the privilege to work in IT(Data science) domain for 1+ years and 4+ years in the non IT domains
 
 Currently I am looking for an exciting opportunity !!
 
 ## more about me...
-👨‍💻 I have been mostly working with React JS in frontend and Firebase in backend
+👨‍💻 I have been mostly working with React JS, React Native in frontend and Node, Express, MySql, MongoDB and in the backend
 
-🧠 Also I'm learning Node JS, Express JS, Mongo DB
+🧠 Always open to learn new technologies, currently learning Next JS, React-query, GraphQL
 
 🕺 I'm looking to collaborate on exciting projects
 
@@ -28,7 +26,7 @@ Currently I am looking for an exciting opportunity !!
 
 ### Frontend
 
-HTML5, CSS3, Tailwind CSS, Javascript(ES6+), React JS
+HTML5, CSS3, Tailwind CSS, MUI, Javascript(ES6+), React JS, React Native
 
 ### Backend
 
@@ -36,15 +34,15 @@ Node JS, Express JS, Firebase, Rest APIs
 
 ### Database
 
-Mongo DB, MySql
+MongoDB, MySql
 
 ### Deployment
 
-Git/GitHub, Netlify, Vercel, Firebase Deploy
+Git/GitHub, Netlify, Vercel, Firebase
 
 ### Other skills
 
-Python, SAS, SQL, Data Science
+Python, SAS, Data Science, ML
 
 
 ## 🔗 Links
