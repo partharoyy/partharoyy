@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I am a Fullstack Software Engineer working with MERN stack to build Web and Mobile Apps with 3+ years of experience working with Startups and Big organisations.
+I am a Fullstack Software Engineer working with MERN stack to build Web and Mobile Apps with 2+ years of experience working with Startups and Big organisations.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://partharoyy.netlify.app/)
 
