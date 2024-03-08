@@ -34,7 +34,7 @@ Node JS, Express JS, Firebase, Rest APIs
 
 ### Database
 
-MongoDB, MySql
+MongoDB, MySql, PostgreSQL
 
 ### Deployment
 
